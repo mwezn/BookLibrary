@@ -1,6 +1,8 @@
-# LAP 2 Debugging Assignment
+# wilkes_lap2_assignment-mwezn
 
-Welcome to your second debugging assignment! This is a full stack web application with an HTML/CSS/JS client and an Express server connected to PostgreSQL database.
+This was my debugging assignment for Futureproofs Lap2 challenge.
+The app is supposed to allow users to view authors & books aswell as create & delete them.
+Technologies used here include Docker, postgresql (SQL) & a simple HTML/CSS/JS client
 
 **Please make sure that you read *all* the instructions before starting.**
 
